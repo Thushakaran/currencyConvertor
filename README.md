@@ -7,4 +7,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- ![project image]("https://github.com/Thushakaran/currencyConvertor/blob/main/currencyConverter%20interface%20image.png")
+![Project Image](https://github.com/Thushakaran/currencyConvertor/blob/main/currencyConverter%20interface%20image.png)
+
